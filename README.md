@@ -1,2 +1,9 @@
-# barbarossa-demo
-BARBAROSSA cafe demo — menu and WhatsApp orders
+# BARBAROSSA — demo
+
+Демонстрационная версия сайта кафе BARBAROSSA.
+
+https://nessa-coffee.github.io/barbarossa-demo/
+
+Заказы передаются в WhatsApp и принимаются только после подтверждения кафе. Указанные на карте зоны, тарифы и сроки доставки демонстрационные.
+
+В репозитории размещена готовая сборка сайта.
